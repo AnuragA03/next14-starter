@@ -16,8 +16,8 @@ const PostCard = () => {
 
       <div className={styles.bottom}>
         <h1 className={styles.title}>Title</h1>
-        <p className={styles.desc}>Desc</p>
-        <Link href="/blog/post">Read More</Link>
+        <p className={styles.desc}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia iste voluptatem assumenda sint perferendis totam distinctio sit debitis eligendi tempora.</p>
+        <Link className={styles.link} href="/blog/post">Read More</Link>
       </div>
     </div>
   )
