@@ -8,7 +8,7 @@ import Image from "next/image";
 
 const links = [
     {
-        title: "HomePage",
+        title: "Home",
         path: "/",
     },
     {
